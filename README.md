@@ -11,7 +11,7 @@
 ## 🔗 Try It Now
 
 👉 [Chat with Vishwajna Puratan](https://chatgpt.com/g/g-6795d4491a5881919d37758d5cf1c18c-vishwajna-puratan)  
-_(Replace with your actual GPT link)_
+
 
 ## 📷 Demo
 
