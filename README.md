@@ -15,7 +15,12 @@ _(Replace with your actual GPT link)_
 
 ## 📷 Demo
 
-![Vishwajna Puratan in Action](assets/demo.png)
+### 🎨 GPT Cover Image
+![Vishwajna Puratan Cover](assets/demo.png)
+
+### 💬 Sample Response
+![Sample Prompt Reply](assets/prompt_response.png)
+
 
 ## 📄 License
 
